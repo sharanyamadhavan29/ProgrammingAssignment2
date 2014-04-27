@@ -1,5 +1,4 @@
-## Put comments here that give an overall description of what your
-## functions do
+## The funtion creates a matrix, checks if the cache exists, returns the cache value if yes and computes otherwise 
 
 ## Creates a special matrix object that can cache its inverse 
 
